@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R1S6A3msbUD9r0xQImaS+Io2QFyvl8wfJ6gMMWoGUNcDRLynSP2S4haqV3TcQtln2tVDWrZQXJ5Eyr/xfdeSfQ==",
+  "dgSpecHash": "2pfE0eiJaSxJajNoQEd/eu0kmy/GB7di7pz6DvxzrAmwnb7lqOOPkqzMoDK2NNW8kIQvRQvBjU5rRLi8NFl4JQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.enbeh\\Desktop\\C# Design Patterns\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

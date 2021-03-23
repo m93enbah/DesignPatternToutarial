@@ -1,36 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.enbeh\\Desktop\\C# Design Patterns\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {}
+    "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.enbeh\\Desktop\\C# Design Patterns\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {
+    "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.enbeh\\Desktop\\C# Design Patterns\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
         "projectName": "OpenClosedPrinciple",
-        "projectPath": "C:\\Users\\m.enbeh\\Desktop\\C# Design Patterns\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+        "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
         "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.enbeh\\Desktop\\C# Design Patterns\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\obj\\",
+        "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section02 Solid Design Principle\\Lesson02 Open Closed Principle\\OpenClosedPrinciple\\OpenClosedPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\m.enbeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\inetpub\\wwwroot\\MyWorkAngular\\AngApprovalNotification\\Packages\\enbeh-shared-setup-domain-package\\1.0.0": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.telerik.com/nuget": {}
         },
         "frameworks": {
           "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -42,6 +45,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.7.20366.6\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
