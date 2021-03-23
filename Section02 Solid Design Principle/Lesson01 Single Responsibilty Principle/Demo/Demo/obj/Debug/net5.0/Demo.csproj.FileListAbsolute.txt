@@ -1,0 +1,16 @@
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\bin\Debug\net5.0\ref\Demo.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section02 Solid Design Principle\Lesson01 Single Responsibilty Principle\Demo\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
