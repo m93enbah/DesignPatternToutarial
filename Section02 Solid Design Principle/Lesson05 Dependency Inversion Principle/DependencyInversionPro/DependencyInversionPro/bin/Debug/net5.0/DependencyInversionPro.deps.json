@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DependencyInversionPro/1.0.0": {
+        "runtime": {
+          "DependencyInversionPro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DependencyInversionPro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

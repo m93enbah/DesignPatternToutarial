@@ -1,0 +1,29 @@
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.exe
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.deps.json
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.runtimeconfig.json
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.dll
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.pdb
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.AssemblyInfo.cs
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.dll
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.pdb
+C:\Users\m.enbeh\Desktop\C# Design Patterns\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.exe
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.deps.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\ref\BuilderDesignPatternPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\bin\Debug\net5.0\BuilderDesignPatternPro.pdb
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\ref\BuilderDesignPatternPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.pdb
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\BuilderDesignPatternPro\obj\Debug\net5.0\BuilderDesignPatternPro.genruntimeconfig.cache
