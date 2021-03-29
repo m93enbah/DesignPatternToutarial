@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section04FacetedBuilderPro"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcersicePro", "ExcersicePro\ExcersicePro.csproj", "{E60C5B28-C99C-4EDD-8C0A-D12382C4E01E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section05DoFactoryBuilderPro", "Section05DoFactoryBuilderPro\Section05DoFactoryBuilderPro.csproj", "{4BF7D7FC-7DCF-4753-859E-183D9AD88517}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section05DoTrandFactoryBuilderPro", "Section05DoFactoryBuilderPro\Section05DoTrandFactoryBuilderPro.csproj", "{4BF7D7FC-7DCF-4753-859E-183D9AD88517}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
