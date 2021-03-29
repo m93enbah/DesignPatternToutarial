@@ -13,3 +13,4 @@ C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pa
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\ExcersicePro\obj\Debug\net5.0\ref\ExcersicePro.dll
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\ExcersicePro\obj\Debug\net5.0\ExcersicePro.pdb
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\ExcersicePro\obj\Debug\net5.0\ExcersicePro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\ExcersicePro\obj\Debug\net5.0\ExcersicePro.csprojAssemblyReference.cache

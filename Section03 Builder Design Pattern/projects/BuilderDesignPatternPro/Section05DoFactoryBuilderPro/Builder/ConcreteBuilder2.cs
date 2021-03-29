@@ -7,14 +7,16 @@ namespace Section05DoFactoryBuilderPro.Builder
     {
         private Product _product = new Product();
 
-        public override void BuildPartA()
+        public override ConcreteBuilder2 BuildPartA()
         {
             _product.Add("PartX");
+            return this;
         }
 
-        public override void BuildPartB()
+        public override ConcreteBuilder2 BuildPartB()
         {
             _product.Add("PartY");
+            return this;
         }
 
         public override Product GetResult()

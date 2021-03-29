@@ -13,3 +13,4 @@ C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pa
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\FluentBuilderPro\obj\Debug\net5.0\ref\Section02FluentBuilderPro.dll
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\FluentBuilderPro\obj\Debug\net5.0\Section02FluentBuilderPro.pdb
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\FluentBuilderPro\obj\Debug\net5.0\Section02FluentBuilderPro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\FluentBuilderPro\obj\Debug\net5.0\Section02FluentBuilderPro.csprojAssemblyReference.cache

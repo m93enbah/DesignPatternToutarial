@@ -13,3 +13,4 @@ C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pa
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\Section05DoFactoryBuilderPro\obj\Debug\net5.0\ref\Section05DoTrandFactoryBuilderPro.dll
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\Section05DoFactoryBuilderPro\obj\Debug\net5.0\Section05DoTrandFactoryBuilderPro.pdb
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\Section05DoFactoryBuilderPro\obj\Debug\net5.0\Section05DoTrandFactoryBuilderPro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section03 Builder Design Pattern\projects\BuilderDesignPatternPro\Section05DoFactoryBuilderPro\obj\Debug\net5.0\Section05DoTrandFactoryBuilderPro.csprojAssemblyReference.cache

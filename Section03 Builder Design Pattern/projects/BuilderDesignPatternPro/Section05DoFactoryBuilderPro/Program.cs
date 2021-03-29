@@ -9,24 +9,18 @@ namespace Section05DoFactoryBuilderPro
         public static void Main()
         {
             // Create director and builders
-
             Director director = new Director();
 
-            var b1 = new ConcreteBuilder1();
-            var b2 = new ConcreteBuilder2();
-
-            // Construct two products
-
-            director.Construct(b1);
-            Product p1 = b1.GetResult();
+            //we call the 
+            director.CallBuilder1();
+            Product p1 = director.builder1.GetResult();
             p1.Show();
 
-            director.Construct(b2);
-            Product p2 = b2.GetResult();
+            director.CallBuilder2();
+            Product p2 = director.builder2.GetResult();
             p2.Show();
 
             // Wait for user
-
             Console.ReadKey();
         }
     }
