@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Section04FacetedBuilderPro/1.0.0": {
+        "runtime": {
+          "Section04FacetedBuilderPro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section04FacetedBuilderPro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\BuilderDesignPatternPro\\BuilderDesignPatternPro.csproj",
-      "projectName": "BuilderDesignPatternPro",
-      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\BuilderDesignPatternPro\\BuilderDesignPatternPro.csproj",
+      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\BuilderDesignPatternPro\\Section01BuilderDesignPatternPro.csproj",
+      "projectName": "Section01BuilderDesignPatternPro",
+      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\BuilderDesignPatternPro\\Section01BuilderDesignPatternPro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\BuilderDesignPatternPro\\obj\\",
       "projectStyle": "PackageReference",

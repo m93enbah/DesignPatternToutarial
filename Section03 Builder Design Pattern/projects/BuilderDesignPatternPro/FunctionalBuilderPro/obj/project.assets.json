@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FunctionalBuilderPro\\FunctionalBuilderPro.csproj",
-      "projectName": "FunctionalBuilderPro",
-      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FunctionalBuilderPro\\FunctionalBuilderPro.csproj",
+      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FunctionalBuilderPro\\Section03FunctionalBuilderPro.csproj",
+      "projectName": "Section03FunctionalBuilderPro",
+      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FunctionalBuilderPro\\Section03FunctionalBuilderPro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FunctionalBuilderPro\\obj\\",
       "projectStyle": "PackageReference",

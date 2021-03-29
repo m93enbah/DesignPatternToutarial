@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FluentBuilderPro\\FluentBuilderPro.csproj",
-      "projectName": "FluentBuilderPro",
-      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FluentBuilderPro\\FluentBuilderPro.csproj",
+      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FluentBuilderPro\\Section02FluentBuilderPro.csproj",
+      "projectName": "Section02FluentBuilderPro",
+      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FluentBuilderPro\\Section02FluentBuilderPro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FluentBuilderPro\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3GYDBG6ZiiukI/W8sLJ9tCR7VmpM0WHGfHI45RwsdYyxjGcd5JA24ZLqP388RYrNMkPmQyC8rzicXUa4mrVMDw==",
+  "dgSpecHash": "7a7xJ1shcoqxPztFpNDO2WmuXALFucuBYzLBpDwQTS2R++ZPfJNxTKZHEQ1Iy6QR5O02xG3CxNUEkG4RMXYyhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FluentBuilderPro\\FluentBuilderPro.csproj",
+  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FluentBuilderPro\\Section02FluentBuilderPro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

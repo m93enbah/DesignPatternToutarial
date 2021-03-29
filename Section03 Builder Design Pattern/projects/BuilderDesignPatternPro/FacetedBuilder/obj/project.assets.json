@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FacetedBuilder\\FacetedBuilderPro.csproj",
-      "projectName": "FacetedBuilderPro",
-      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FacetedBuilder\\FacetedBuilderPro.csproj",
+      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FacetedBuilder\\Section04FacetedBuilderPro.csproj",
+      "projectName": "Section04FacetedBuilderPro",
+      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FacetedBuilder\\Section04FacetedBuilderPro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section03 Builder Design Pattern\\projects\\BuilderDesignPatternPro\\FacetedBuilder\\obj\\",
       "projectStyle": "PackageReference",
