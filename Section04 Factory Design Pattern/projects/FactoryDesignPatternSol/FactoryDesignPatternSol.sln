@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPatternSol", "FactoryDesignPatternSol\FactoryDesignPatternSol.csproj", "{13BA8CCB-7A04-4324-8D3E-FE386AB7DF87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodPro", "FactoryDesignPatternSol\FactoryMethodPro.csproj", "{13BA8CCB-7A04-4324-8D3E-FE386AB7DF87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryClassPro", "FactoryClassPro\FactoryClassPro.csproj", "{CFCB77DC-F9EA-4DEB-B69B-EA3B3E5FABCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerFactoryPro", "InnerFactoryPro\InnerFactoryPro.csproj", "{FC78EF0D-98DA-4506-B3D2-5D381EBA1063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPatternPro", "AbstractFactoryPro\FactoryPatternPro.csproj", "{F2E9BBEE-E28C-486F-A20D-6935A9730E8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPatternPro", "AbstractFactoryPatternPro\AbstractFactoryPatternPro.csproj", "{5A0D03E6-3623-4B8D-93DB-FA2933923574}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{13BA8CCB-7A04-4324-8D3E-FE386AB7DF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13BA8CCB-7A04-4324-8D3E-FE386AB7DF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13BA8CCB-7A04-4324-8D3E-FE386AB7DF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCB77DC-F9EA-4DEB-B69B-EA3B3E5FABCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCB77DC-F9EA-4DEB-B69B-EA3B3E5FABCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCB77DC-F9EA-4DEB-B69B-EA3B3E5FABCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCB77DC-F9EA-4DEB-B69B-EA3B3E5FABCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC78EF0D-98DA-4506-B3D2-5D381EBA1063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC78EF0D-98DA-4506-B3D2-5D381EBA1063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC78EF0D-98DA-4506-B3D2-5D381EBA1063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC78EF0D-98DA-4506-B3D2-5D381EBA1063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2E9BBEE-E28C-486F-A20D-6935A9730E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E9BBEE-E28C-486F-A20D-6935A9730E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2E9BBEE-E28C-486F-A20D-6935A9730E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E9BBEE-E28C-486F-A20D-6935A9730E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0D03E6-3623-4B8D-93DB-FA2933923574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0D03E6-3623-4B8D-93DB-FA2933923574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0D03E6-3623-4B8D-93DB-FA2933923574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0D03E6-3623-4B8D-93DB-FA2933923574}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
