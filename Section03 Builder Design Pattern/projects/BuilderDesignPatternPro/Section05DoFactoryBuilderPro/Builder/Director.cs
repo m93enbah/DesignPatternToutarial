@@ -1,4 +1,6 @@
-﻿namespace Section05DoFactoryBuilderPro.Builder
+﻿using Section05DoFactoryBuilderPro.Interfaces;
+
+namespace Section05DoFactoryBuilderPro.Builder
 {
     //the best way is to use facad builder with apply functions that prepare all configuration 
     //or methods with apply chain way reutrn the class itselft
@@ -9,7 +11,7 @@
         public ConcreteBuilder2 builder2 = new ConcreteBuilder2();
 
         // Builder uses a complex series of steps
-        public void Construct(Builder builder)
+        public void Construct(IBuilder builder)
         {
             builder.BuildPartA();
             builder.BuildPartB();

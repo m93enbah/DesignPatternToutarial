@@ -1,25 +1,26 @@
-﻿using Section05DoFactoryBuilderPro.Models;
+﻿using Section05DoFactoryBuilderPro.Interfaces;
+using Section05DoFactoryBuilderPro.Models;
 
 namespace Section05DoFactoryBuilderPro.Builder
 {
-    public class ConcreteBuilder2 : Builder
+    public class ConcreteBuilder2 : IBuilder
 
     {
         private Product _product = new Product();
 
-        public override ConcreteBuilder2 BuildPartA()
+        public IBuilder BuildPartA()
         {
             _product.Add("PartX");
             return this;
         }
 
-        public override ConcreteBuilder2 BuildPartB()
+        public IBuilder BuildPartB()
         {
             _product.Add("PartY");
             return this;
         }
 
-        public override Product GetResult()
+        public Product GetResult()
         {
             return _product;
         }
