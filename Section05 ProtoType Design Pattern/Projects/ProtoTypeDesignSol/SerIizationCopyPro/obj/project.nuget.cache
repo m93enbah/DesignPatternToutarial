@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3LOl8os9TDpZ1227weRnyoMoNh2bZCtmfbP+3cS7dOCdeviNiCrHGYlxbxOQm4zF25XJl1AwvG+C3lvWEfUGfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section05 ProtoType Design Pattern\\Projects\\ProtoTypeDesignSol\\SerIizationCopyPro\\SerIizationCopyPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyConstPro", "CopyConstPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitDeepCopyPro", "ExplicitDeepCopyPro\ExplicitDeepCopyPro.csproj", "{F54B2FD5-DC8F-4F8D-9EAD-729D004BEDFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyInheritPro", "CopyInheritPro\CopyInheritPro.csproj", "{FD290CF4-4313-44CA-B4D3-940FAF11F3FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerIizationCopyPro", "SerIizationCopyPro\SerIizationCopyPro.csproj", "{801CE0FB-7F5C-4326-B107-F3A22781F731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{F54B2FD5-DC8F-4F8D-9EAD-729D004BEDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F54B2FD5-DC8F-4F8D-9EAD-729D004BEDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F54B2FD5-DC8F-4F8D-9EAD-729D004BEDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD290CF4-4313-44CA-B4D3-940FAF11F3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD290CF4-4313-44CA-B4D3-940FAF11F3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD290CF4-4313-44CA-B4D3-940FAF11F3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD290CF4-4313-44CA-B4D3-940FAF11F3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801CE0FB-7F5C-4326-B107-F3A22781F731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801CE0FB-7F5C-4326-B107-F3A22781F731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801CE0FB-7F5C-4326-B107-F3A22781F731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801CE0FB-7F5C-4326-B107-F3A22781F731}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
