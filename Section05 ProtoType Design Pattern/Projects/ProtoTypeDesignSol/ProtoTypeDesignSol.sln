@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyInheritPro", "CopyInher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerIizationCopyPro", "SerIizationCopyPro\SerIizationCopyPro.csproj", "{801CE0FB-7F5C-4326-B107-F3A22781F731}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryProtoType01", "DoFactoryProtoTypePro\DoFactoryProtoType01.csproj", "{FCF3CFCB-52FA-46CC-AFC0-FF5012BDCA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryProtoType02", "DoFactoryProtoType02\DoFactoryProtoType02.csproj", "{6D31FF0F-9C05-4DDC-A346-762A5D0B8001}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{801CE0FB-7F5C-4326-B107-F3A22781F731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{801CE0FB-7F5C-4326-B107-F3A22781F731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{801CE0FB-7F5C-4326-B107-F3A22781F731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF3CFCB-52FA-46CC-AFC0-FF5012BDCA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF3CFCB-52FA-46CC-AFC0-FF5012BDCA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF3CFCB-52FA-46CC-AFC0-FF5012BDCA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF3CFCB-52FA-46CC-AFC0-FF5012BDCA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D31FF0F-9C05-4DDC-A346-762A5D0B8001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D31FF0F-9C05-4DDC-A346-762A5D0B8001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D31FF0F-9C05-4DDC-A346-762A5D0B8001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D31FF0F-9C05-4DDC-A346-762A5D0B8001}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
