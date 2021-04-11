@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "96zkXLaF0WgZoCSYgOozRJN7sjycfVoMMjaLdck0W7vBxJfindwjto2ZCQ2kp5acjmoB7+PZ2OCmX6uIN+G3Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section06 Singleton Design Pattern\\Projects\\SingletonPatternSol\\SingletonPatternSol\\SingletonPatternSol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\autofac\\4.5.0\\autofac.4.5.0.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\autofac.engine\\5.0.0.1\\autofac.engine.5.0.0.1.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\autofac.extensions.dependencyinjection\\4.2.2\\autofac.extensions.dependencyinjection.4.2.2.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\1.1.0\\microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
