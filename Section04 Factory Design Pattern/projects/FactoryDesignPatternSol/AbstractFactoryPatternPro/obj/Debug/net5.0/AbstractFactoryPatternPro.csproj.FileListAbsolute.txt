@@ -13,3 +13,4 @@ C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section04 Factory Design Pa
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section04 Factory Design Pattern\projects\FactoryDesignPatternSol\AbstractFactoryPatternPro\obj\Debug\net5.0\ref\AbstractFactoryPatternPro.dll
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section04 Factory Design Pattern\projects\FactoryDesignPatternSol\AbstractFactoryPatternPro\obj\Debug\net5.0\AbstractFactoryPatternPro.pdb
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section04 Factory Design Pattern\projects\FactoryDesignPatternSol\AbstractFactoryPatternPro\obj\Debug\net5.0\AbstractFactoryPatternPro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section04 Factory Design Pattern\projects\FactoryDesignPatternSol\AbstractFactoryPatternPro\obj\Debug\net5.0\AbstractFactoryPatternPro.csprojAssemblyReference.cache
