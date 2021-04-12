@@ -5,10 +5,10 @@ namespace SingletonPatternSol
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            var db = SingletonDatabase.Instance;
-            Console.ReadLine();
-        }
+        //static void Main(string[] args)
+        //{
+        //    var db = SingletonDatabase.Instance;
+        //    Console.ReadLine();
+        //}
     }
 }
