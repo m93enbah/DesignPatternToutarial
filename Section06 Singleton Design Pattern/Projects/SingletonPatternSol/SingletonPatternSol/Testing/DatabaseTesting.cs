@@ -9,6 +9,7 @@ namespace SingletonPatternSol.Testing
     [TestFixture]
     public class SingletonTests
     {
+        //to check if the singleton generate only 1 instance
         [Test]
         public void IsSingletonTest()
         {
@@ -18,6 +19,7 @@ namespace SingletonPatternSol.Testing
             Assert.That(SingletonDatabase.Count, Is.EqualTo(1));
         }
 
+        //to read from SingeltonDatabase and apply TotalPopulation
         [Test]
         public void SingletonTotalPopulationTest()
         {
@@ -28,6 +30,9 @@ namespace SingletonPatternSol.Testing
             Assert.That(tp, Is.EqualTo(17500000 + 17400000));
         }
 
+        //to read from Dummy Database and assign as parameter IDatabase 
+        //to load the GetTotalPopuplation that implement on both 
+        //DummyDatabase and SingletonDatabase
         [Test]
         public void DependantTotalPopulationTest()
         {
