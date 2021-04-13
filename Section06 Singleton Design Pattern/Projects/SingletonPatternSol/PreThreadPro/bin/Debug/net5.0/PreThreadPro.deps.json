@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PreThreadPro/1.0.0": {
+        "runtime": {
+          "PreThreadPro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PreThreadPro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -19,3 +19,4 @@ C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section06 Singleton Design 
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section06 Singleton Design Pattern\Projects\SingletonDISol\obj\Debug\net5.0\ref\SingletonDISol.dll
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section06 Singleton Design Pattern\Projects\SingletonDISol\obj\Debug\net5.0\SingletonDISol.pdb
 C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section06 Singleton Design Pattern\Projects\SingletonDISol\obj\Debug\net5.0\SingletonDISol.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section06 Singleton Design Pattern\Projects\SingletonDISol\obj\Debug\net5.0\SingletonDISol.csprojAssemblyReference.cache
