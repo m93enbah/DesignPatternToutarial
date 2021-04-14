@@ -8,16 +8,19 @@ namespace AdapterCachingPro
     public class LineToPointAdapter : IEnumerable<Point>
     {
         private static int count = 0;
+        //by using cache which is used to store all the points with the hash code it refer
         static Dictionary<int, List<Point>> cache = new Dictionary<int, List<Point>>();
         private int hash;
 
         public LineToPointAdapter(Line line)
         {
+            //we check to the line GetHashCode() which return X,Y GetHashCode()
             hash = line.GetHashCode();
-            if (cache.ContainsKey(hash)) return; // we already have it
+            // we already have it
+            if (cache.ContainsKey(hash)) 
+                return; 
 
             WriteLine($"{++count}: Generating points for line [{line.Start.X},{line.Start.Y}]-[{line.End.X},{line.End.Y}] (with caching)");
-            //                                                 ^^^^
 
             List<Point> points = new List<Point>();
 
@@ -42,7 +45,7 @@ namespace AdapterCachingPro
                     points.Add(new Point(x, top));
                 }
             }
-
+            //on each line convert to point it will store to caching
             cache.Add(hash, points);
         }
 
