@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NF836aTTTPVJg2RaDcUqOKIyOuaXicZIUqKWSG0ehvarnDcmUAfkliUvodQELfQzcUTxnrPSpaw3C+cKTHv4+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section07 Adapter Design Pattern\\projects\\AdapterPatternSol\\AdapterCachingPro\\AdapterCachingPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.enbeh\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
