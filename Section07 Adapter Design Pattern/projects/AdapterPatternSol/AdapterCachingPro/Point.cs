@@ -16,6 +16,7 @@
             return X == other.X && Y == other.Y;
         }
 
+        //it will resolve the issue of the replicate temp data
         //make check equal by reference if it equals return true
         //and then check for the two X , Y
         public override bool Equals(object obj)
@@ -25,7 +26,7 @@
             if (obj.GetType() != this.GetType()) return false;
             return Equals((Point)obj);
         }
-
+        //we override GetHashCode() on the Point , Line 
         public override int GetHashCode()
         {
             unchecked

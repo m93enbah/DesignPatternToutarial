@@ -15,6 +15,8 @@
         {
             return Equals(Start, other.Start) && Equals(End, other.End);
         }
+
+        //it will resolve the issue of the replicate temp data
         //make check equal by reference if it equals return true
         //and then check for the two Point Start , End
         public override bool Equals(object obj)
@@ -24,7 +26,7 @@
             if (obj.GetType() != this.GetType()) return false;
             return Equals((Line)obj);
         }
-
+        //we override GetHashCode() on the Point , Line 
         public override int GetHashCode()
         {
             unchecked
