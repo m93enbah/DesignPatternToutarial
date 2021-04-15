@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericValuePro", "GenericV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDIPro", "AdapterDIPro\AdapterDIPro.csproj", "{5C7C94D0-F1F4-4765-AA5C-DF06F1FC0D44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryAdapter", "DoFactoryAdapter\DoFactoryAdapter.csproj", "{D019A5BA-585B-419D-B112-E97703CA2D7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5C7C94D0-F1F4-4765-AA5C-DF06F1FC0D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C7C94D0-F1F4-4765-AA5C-DF06F1FC0D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C7C94D0-F1F4-4765-AA5C-DF06F1FC0D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D019A5BA-585B-419D-B112-E97703CA2D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D019A5BA-585B-419D-B112-E97703CA2D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D019A5BA-585B-419D-B112-E97703CA2D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D019A5BA-585B-419D-B112-E97703CA2D7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
