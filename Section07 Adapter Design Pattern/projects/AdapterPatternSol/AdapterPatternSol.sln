@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterSimplePro", "AdapterPatternSol\AdapterSimplePro.csproj", "{29C377F0-ACE5-48A0-AD69-3D97A2742A4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterSimplePro", "AdapterPatternSol\AdapterSimplePro.csproj", "{29C377F0-ACE5-48A0-AD69-3D97A2742A4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterCachingPro", "AdapterCachingPro\AdapterCachingPro.csproj", "{AF7F0471-517D-4391-B9BC-D405395C01AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterCachingPro", "AdapterCachingPro\AdapterCachingPro.csproj", "{AF7F0471-517D-4391-B9BC-D405395C01AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericValuePro", "GenericValuePro\GenericValuePro.csproj", "{1F24FA81-641E-4448-9BD7-AD6AF3CF8439}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{AF7F0471-517D-4391-B9BC-D405395C01AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF7F0471-517D-4391-B9BC-D405395C01AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF7F0471-517D-4391-B9BC-D405395C01AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F24FA81-641E-4448-9BD7-AD6AF3CF8439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F24FA81-641E-4448-9BD7-AD6AF3CF8439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F24FA81-641E-4448-9BD7-AD6AF3CF8439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F24FA81-641E-4448-9BD7-AD6AF3CF8439}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
