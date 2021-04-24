@@ -1,5 +1,4 @@
-﻿using FacadeDesignPro.DotNetDesignPatternDemos.Structural.Facade;
-using System;
+﻿using System;
 
 namespace FacadeDesignPro
 {
@@ -7,16 +6,11 @@ namespace FacadeDesignPro
     {
         public static void Main(String[] args)
         {
-            //ShapeMaker shapeMaker = new ShapeMaker();
+            ShapeMaker shapeMaker = new ShapeMaker();
 
-            //shapeMaker.drawCircle();
-            //shapeMaker.drawRectangle();
-            //shapeMaker.drawSquare();
-            //Console.ReadLine();
-
-
-            TestSuite tst = new TestSuite();
-            tst.TestSizeThree();
+            shapeMaker.drawCircle();
+            shapeMaker.drawRectangle();
+            shapeMaker.drawSquare();
             Console.ReadLine();
         }
     }

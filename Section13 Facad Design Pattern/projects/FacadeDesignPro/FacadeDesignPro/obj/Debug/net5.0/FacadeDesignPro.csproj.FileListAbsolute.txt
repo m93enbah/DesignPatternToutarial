@@ -11,3 +11,19 @@ C:\Users\m.enbeh\Desktop\C# Design Patterns\Section13 Facad Design Pattern\proje
 C:\Users\m.enbeh\Desktop\C# Design Patterns\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.dll
 C:\Users\m.enbeh\Desktop\C# Design Patterns\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.pdb
 C:\Users\m.enbeh\Desktop\C# Design Patterns\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.genruntimeconfig.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.csprojAssemblyReference.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.AssemblyInfoInputs.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.AssemblyInfo.cs
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.csproj.CoreCompileInputs.cache
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.pdb
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\bin\Debug\net5.0\FacadeDesignPro.exe
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\bin\Debug\net5.0\FacadeDesignPro.deps.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\bin\Debug\net5.0\FacadeDesignPro.runtimeconfig.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\bin\Debug\net5.0\FacadeDesignPro.runtimeconfig.dev.json
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\bin\Debug\net5.0\FacadeDesignPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\bin\Debug\net5.0\ref\FacadeDesignPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\bin\Debug\net5.0\FacadeDesignPro.pdb
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\ref\FacadeDesignPro.dll
+C:\Users\m.enbeh\source\repos\DesignPatternToutarial\Section13 Facad Design Pattern\projects\FacadeDesignPro\FacadeDesignPro\obj\Debug\net5.0\FacadeDesignPro.genruntimeconfig.cache

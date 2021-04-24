@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FacadeDesignPro
+﻿namespace FacadeDesignPro
 {
+    //we see that on the ShapeMaker class we declare the instance of each terminal class by provide the type of the interface
+    //so the facade design pattern hides the complexity system by provide you the ShapeMaker class only
     public class ShapeMaker
     {
         private Shape circle;
