@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DoFactoryProxy2Pro/1.0.0": {
+        "runtime": {
+          "DoFactoryProxy2Pro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoFactoryProxy2Pro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
