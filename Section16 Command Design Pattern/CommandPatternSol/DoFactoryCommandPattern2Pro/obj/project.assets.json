@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\CommandPatternSol\\DoFactoryCommandPatternPro.csproj",
-      "projectName": "DoFactoryCommandPatternPro",
-      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\CommandPatternSol\\DoFactoryCommandPatternPro.csproj",
+      "projectUniqueName": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\DoFactoryCommandPattern2Pro\\DoFactoryCommandPattern2Pro.csproj",
+      "projectName": "DoFactoryCommandPattern2Pro",
+      "projectPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\DoFactoryCommandPattern2Pro\\DoFactoryCommandPattern2Pro.csproj",
       "packagesPath": "C:\\Users\\m.enbeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\CommandPatternSol\\obj\\",
+      "outputPath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\DoFactoryCommandPattern2Pro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

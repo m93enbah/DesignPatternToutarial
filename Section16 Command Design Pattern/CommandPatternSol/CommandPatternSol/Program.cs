@@ -1,7 +1,7 @@
-﻿using CommandPatternPro.Commands;
+﻿using DoFactoryCommandPatternPro.Commands;
 using System;
 
-namespace CommandPatternPro
+namespace DoFactoryCommandPatternPro
 {
     class Program
     {

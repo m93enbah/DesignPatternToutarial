@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hsG21w6BYAZdN7Xug3QbWdJHDOR+J241f98EdVyC/jI1WCRgRlF9/A3klvFfVN60KYI1t3hWqIR6wIMCVjJUpA==",
+  "dgSpecHash": "gnW2qfB4JhyohkFsAPi71E6JB2QN7xUyidzbfkrTLSS8e/FNZH6afQuLsV9cP/BKJgYLroL9VnG0Y+GyVDWA9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\CommandPatternSol\\CommandPatternPro.csproj",
+  "projectFilePath": "C:\\Users\\m.enbeh\\source\\repos\\DesignPatternToutarial\\Section16 Command Design Pattern\\CommandPatternSol\\CommandPatternSol\\DoFactoryCommandPatternPro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

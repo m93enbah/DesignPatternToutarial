@@ -1,4 +1,4 @@
-﻿namespace CommandPatternPro.Commands
+﻿namespace DoFactoryCommandPatternPro.Commands
 {
     //Command use Reciever as parameter and provide abstract method as below
     abstract class Command

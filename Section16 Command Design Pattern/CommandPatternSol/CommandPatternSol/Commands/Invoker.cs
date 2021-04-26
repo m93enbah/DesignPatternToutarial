@@ -1,4 +1,4 @@
-﻿namespace CommandPatternPro.Commands
+﻿namespace DoFactoryCommandPatternPro.Commands
 {
     //the invoker will call the ConcreteCommand that contains the Receiver class as below
     class Invoker

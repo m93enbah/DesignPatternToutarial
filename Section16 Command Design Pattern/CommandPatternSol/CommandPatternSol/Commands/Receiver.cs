@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CommandPatternPro.Commands
+namespace DoFactoryCommandPatternPro.Commands
 {
     //this class represnt the command that we want to operate 
     //1-we use it as parameter on the Command abstract class
