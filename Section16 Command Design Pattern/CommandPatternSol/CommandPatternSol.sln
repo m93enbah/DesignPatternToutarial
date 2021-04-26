@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPatternPro", "CommandPatternSol\CommandPatternPro.csproj", "{980A7730-FDD7-4275-B2F7-4BA2F9E8C501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980A7730-FDD7-4275-B2F7-4BA2F9E8C501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980A7730-FDD7-4275-B2F7-4BA2F9E8C501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980A7730-FDD7-4275-B2F7-4BA2F9E8C501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980A7730-FDD7-4275-B2F7-4BA2F9E8C501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EFF8AA4-1698-4327-B491-99BC31B5549F}
+	EndGlobalSection
+EndGlobal
