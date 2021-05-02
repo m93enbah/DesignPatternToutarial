@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryIteratorDesignPro", "IteratorDesignPro\DoFactoryIteratorDesignPro.csproj", "{E4D2189F-03DE-4388-95C6-D63D7C074E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryIterator2Pro", "DoFactoryIterator2Pro\DoFactoryIterator2Pro.csproj", "{D0F19F57-0B8B-4F27-98D0-0221ACAEB239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4D2189F-03DE-4388-95C6-D63D7C074E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D2189F-03DE-4388-95C6-D63D7C074E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D2189F-03DE-4388-95C6-D63D7C074E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D2189F-03DE-4388-95C6-D63D7C074E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F19F57-0B8B-4F27-98D0-0221ACAEB239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F19F57-0B8B-4F27-98D0-0221ACAEB239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F19F57-0B8B-4F27-98D0-0221ACAEB239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F19F57-0B8B-4F27-98D0-0221ACAEB239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FCA7FD6-5120-4B86-A8F2-E46BCD5B5034}
+	EndGlobalSection
+EndGlobal
