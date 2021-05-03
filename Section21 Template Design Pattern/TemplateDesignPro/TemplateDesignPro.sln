@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryTemplateDesignPro", "TemplateDesignPro\DoFactoryTemplateDesignPro.csproj", "{4F3F11F9-0FD9-4C02-A415-FF888C077988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoFactoryTemplate2Pro", "DoFactoryTemplate2Pro\DoFactoryTemplate2Pro.csproj", "{91104987-3088-417D-A5A5-BACD079CC17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F3F11F9-0FD9-4C02-A415-FF888C077988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3F11F9-0FD9-4C02-A415-FF888C077988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3F11F9-0FD9-4C02-A415-FF888C077988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3F11F9-0FD9-4C02-A415-FF888C077988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91104987-3088-417D-A5A5-BACD079CC17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91104987-3088-417D-A5A5-BACD079CC17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91104987-3088-417D-A5A5-BACD079CC17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91104987-3088-417D-A5A5-BACD079CC17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24B68F0-5ABE-4ED7-93E0-EBC0BEE95413}
+	EndGlobalSection
+EndGlobal
